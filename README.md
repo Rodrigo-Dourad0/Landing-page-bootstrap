@@ -19,4 +19,5 @@ O código deste projeto demonstra:
 * **CSS3**
 * **Bootstrap 5** (Apenas o CSS do framework)
 
-<img width="1414" height="2000" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/79f3e692-f8df-45bf-9c5f-261aa766de9c" />
+<img width="1414" height="2000" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/339e7334-5757-4777-b25a-0c313a962e6d" />
+
