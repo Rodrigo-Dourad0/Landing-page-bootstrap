@@ -6,6 +6,7 @@ O objetivo principal foi aplicar conceitos de **HTML5 semântico**, **CSS3 custo
 
 ## ✨ Destaques do Projeto
 
+
 O código deste projeto demonstra:
 
 * **Layout Responsivo (Mobile-First):** A seção "Recursos" foi construída usando o sistema de grid do Bootstrap (`col-12`, `col-md-6`, `col-lg-4`). Isso garante que o conteúdo se adapte corretamente, empilhando em telas pequenas (mobile) e se alinhando em colunas em telas maiores (tablets e desktops).
@@ -17,3 +18,5 @@ O código deste projeto demonstra:
 * **HTML5**
 * **CSS3**
 * **Bootstrap 5** (Apenas o CSS do framework)
+
+<img width="1414" height="2000" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/79f3e692-f8df-45bf-9c5f-261aa766de9c" />
